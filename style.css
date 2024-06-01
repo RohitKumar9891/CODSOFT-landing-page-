@@ -1,0 +1,51 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+header {
+    background-image: url("image.jpg");
+    background-size: cover;
+    padding: 10px;
+    text-align: center;
+}
+
+
+
+#container { 
+     font-weight: bold;
+     margin: 50px;
+}
+
+
+a{
+    margin-right: 50px;
+    text-decoration: none;
+    color: white;
+    font-size: 25px;
+}
+
+
+#home, #account, #location, #contact {
+    padding: 50px;
+    text-align: center;
+}
+
+#home {
+    background-color: #c0bcbc;
+    color:black;
+}
+
+#account {
+    background-color: #d2d2d2;
+}
+
+#location {
+    background-color: #c2c2c2;
+}
+
+#contact {
+    background-color: #b2b2b2;
+}
